@@ -1,6 +1,6 @@
 ## Hello!
 This Github contains projects from my Full Stack Web Development course from the Flatiron school and also profession projects produced at work. 
-The order_input and rapid_orders applications allowed the sales staff to reduce the time spent entering orders, increased the accuracy, value and timeliness of the orders, and improved the customer experience of requesting an order.
+The order_input and rapid_order applications allowed the sales staff to reduce the time spent entering orders, increased the accuracy, value and timeliness of the orders, and improved the customer experience of requesting an order.
 
 ## About
 - 🎓 Graduated with a BS in Biochemistry from the University of London in 1985
