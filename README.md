@@ -8,4 +8,4 @@ The *[order_input](https://github.com/WilliamJones62/order_input)* and *[rapid_o
 -  Created numerous Ruby on Rails applications. 
 ## How to get in touch:
 -  Email: williamjones120862@gmail.com
--  LinkedIn /in/bill-jones-35b95014/
+-  LinkedIn *[/in/bill-jones-35b95014/](https://www.linkedin.com/in/bill-jones-35b95014/)*
